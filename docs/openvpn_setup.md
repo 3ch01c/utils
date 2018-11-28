@@ -1,4 +1,4 @@
-# Set up OpenVPN
+# How to set up OpenVPN
 ## On Debian (Ubuntu, Raspbian, etc.)
 On Debian, install the OpenVPN package through `apt`:
 ```
