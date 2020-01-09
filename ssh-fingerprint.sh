@@ -1,1 +1,2 @@
-ssh-keygen -lf $1
+KEYFILE=$1
+ssh-keygen -lf $KEYFILE
